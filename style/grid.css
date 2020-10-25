@@ -1,0 +1,42 @@
+
+.calc-column {
+    display: inline-block;
+    width: auto;
+}
+
+.calc-row {
+    width: 100%;
+    margin-bottom: 12px;
+    vertical-align: top;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.calc-column-2 {
+    width: 19%;
+}
+
+.calc-column-3 {
+    width: 28.9%;
+}
+
+.calc-column-4 {
+    width: 35%;
+}
+
+.calc-column-6 {
+    width: 45%;
+}
+
+.calc-column-2,
+.calc-column-3,
+.calc-column-4,
+.calc-column-6 {
+    margin: 8px 16px;
+}
+.grid-5-3{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1vw;
+}

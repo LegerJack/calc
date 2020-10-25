@@ -1,0 +1,20 @@
+<svg id="b9318231-b84e-4b4c-bbe2-59af4fc044c4" data-name="icons" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <style>
+      .b3fa0610-e2d9-458d-b62a-87ba8c229e25 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="e13bcf4b-ffa0-49af-b62a-8abd074b5cfc" data-name="1">
+    <g id="bd496021-152f-4c33-b758-cc80c9b347a8" data-name="6">
+      <path class="b3fa0610-e2d9-458d-b62a-87ba8c229e25" d="M256,84h-1a2,2,0,0,1-2-2V79a2,2,0,0,1,2-2h12a2,2,0,0,1,2,2v3a2,2,0,0,1-2,2h-1" transform="translate(-252 -72)"/>
+      <path class="b3fa0610-e2d9-458d-b62a-87ba8c229e25" d="M257,77V75a2,2,0,0,1,2-2h4a2,2,0,0,1,2,2v2" transform="translate(-252 -72)"/>
+      <rect class="b3fa0610-e2d9-458d-b62a-87ba8c229e25" x="4" y="10" width="10" height="7"/>
+    </g>
+  </g>
+</svg>
